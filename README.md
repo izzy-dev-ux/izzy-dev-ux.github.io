@@ -8,6 +8,7 @@ This portfolio showcases practical projects using Excel, Power Query and Power P
 Designed a Power Query workflow to automate manual payroll reconciliation and reporting processes.
 
 > Key outcomes:
+
 - Reduced manual processing
 - Improved data consistency
 - Reduced the risk of manual errors
@@ -22,6 +23,7 @@ Designed a Power Query workflow to automate manual payroll reconciliation and re
 Automated a manual pension payroll reconciliation process using Excel Power Query and Power Pivot.
 
 > Key features:
+
 - Automated data preparation and transformation
 - Reconciliation between data sources
 - Power Pivot data modelling
