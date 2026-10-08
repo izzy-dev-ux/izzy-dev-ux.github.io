@@ -8,13 +8,12 @@ This portfolio showcases practical projects using Excel, Power Query and Power P
 Designed a Power Query workflow to automate manual payroll reconciliation and reporting processes.
 
 > Key outcomes:
+- Reduced manual processing
+- Improved data consistency
+- Reduced the risk of manual errors
+- Created a more repeatable reporting process
 
-Reduced manual processing
-Improved data consistency
-Reduced the risk of manual errors
-Created a more repeatable reporting process
-
-Tools: Excel · Power Query · Data Reconciliation · Process Automation
+**Tools:** Excel · Power Query · Data Reconciliation · Process Automation
 
 > **[View Project](https://github.com/izzy-dev-ux/datacleaning-automation)**
 
@@ -22,29 +21,26 @@ Tools: Excel · Power Query · Data Reconciliation · Process Automation
 
 Automated a manual pension payroll reconciliation process using Excel Power Query and Power Pivot.
 
-The solution transforms SSRS report exports into a dynamic reporting model with automated data preparation, reconciliation and slicer-driven analysis.
-
 > Key features:
+- Automated data preparation and transformation
+- Reconciliation between data sources
+- Power Pivot data modelling
+- Interactive slicer-driven analysis
+- Reduced manual intervention
 
-Automated data preparation and transformation
-Reconciliation between data sources
-Power Pivot data modelling
-Interactive slicer-driven analysis
-Reduced manual intervention
-
-Tools: Excel · Power Query · Power Pivot · SSRS · Data Modelling · Data Analysis
+**Tools:** Excel · Power Query · Power Pivot · SSRS · Data Modelling · Data Analysis
 
 > **[View Project](https://github.com/izzy-dev-ux/powerpivot_report)**
 
 # Skills
 
-Data Analysis: Data validation · Data reconciliation · Variance analysis · Data quality · Root-cause analysis
+**Data Analysis: Data validation · Data reconciliation · Variance analysis · Data quality · Root-cause analysis**
 
-Excel: Advanced Excel · Pivot Tables · Power Query · Power Pivot · Complex formulas
+**Excel:** Advanced Excel · Pivot Tables · Power Query · Power Pivot · Complex formulas
 
-Reporting: SSRS · SAP Reporting · Management Information (MI)
+**Reporting:** SSRS · SAP Reporting · Management Information (MI)
 
-Developing: SQL · Power BI · DAX
+**Developing:** SQL · Power BI · DAX
 
 > About Me
 
