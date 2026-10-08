@@ -36,7 +36,7 @@ Automated a manual pension payroll reconciliation process using Excel Power Quer
 
 # Skills
 
-**Data Analysis: Data validation · Data reconciliation · Variance analysis · Data quality · Root-cause analysis**
+**Data Analysis:** Data validation · Data reconciliation · Variance analysis · Data quality · Root-cause analysis
 
 **Excel:** Advanced Excel · Pivot Tables · Power Query · Power Pivot · Complex formulas
 
