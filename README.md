@@ -16,7 +16,7 @@ Designed a Power Query workflow to automate manual payroll reconciliation and re
 
 **Tools:** Excel · Power Query · Data Reconciliation · Process Automation
 
-> **[View Project](https://github.com/izzy-dev-ux/datacleaning-automation)**
+> **[View Project](https://izzy-dev-ux.github.io/datacleaning-automation/)**
 
 **Pension Payroll Reconciliation & Reporting Model**
 
@@ -32,7 +32,7 @@ Automated a manual pension payroll reconciliation process using Excel Power Quer
 
 **Tools:** Excel · Power Query · Power Pivot · SSRS · Data Modelling · Data Analysis
 
-> **[View Project](https://github.com/izzy-dev-ux/powerpivot_report)**
+> **[View Project](https://izzy-dev-ux.github.io/powerpivot_report/)**
 
 # Skills
 
