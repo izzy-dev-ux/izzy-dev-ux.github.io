@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-This portfolio showcases practical projects using Excel, Power Query and Power Pivot, with SQL and Power BI projects being added as my skills develop.
+This portfolio showcases practical projects using Excel, Power Query and Power Pivot.
 
 # Projects
 **Payroll Reconciliation & Reporting Automation**
