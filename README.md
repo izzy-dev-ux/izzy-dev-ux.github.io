@@ -49,3 +49,5 @@ Automated a manual pension payroll reconciliation process using Excel Power Quer
 My professional experience combines hands-on data analysis with a strong understanding of business processes, reporting requirements and data quality. I particularly enjoy identifying inefficiencies, investigating the underlying causes and developing practical solutions to improve accuracy and efficiency.
 
 More projects will be added as my portfolio develops.
+
+[LinkedIn Profile](https://www.linkedin.com/in/isabellashaikh/)
