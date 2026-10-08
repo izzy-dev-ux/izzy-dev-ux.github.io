@@ -16,7 +16,7 @@ Created a more repeatable reporting process
 
 Tools: Excel · Power Query · Data Reconciliation · Process Automation
 
-👉 **[View Project](https://github.com/izzy-dev-ux/datacleaning-automation)**
+> **[View Project](https://github.com/izzy-dev-ux/datacleaning-automation)**
 
 > **Pension Payroll Reconciliation & Reporting Model**
 
@@ -34,7 +34,7 @@ Reduced manual intervention
 
 Tools: Excel · Power Query · Power Pivot · SSRS · Data Modelling · Data Analysis
 
-👉 **[View Project](https://github.com/izzy-dev-ux/powerpivot_report)**
+> **[View Project](https://github.com/izzy-dev-ux/powerpivot_report)**
 
 > Skills
 
