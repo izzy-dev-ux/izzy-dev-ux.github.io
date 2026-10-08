@@ -36,7 +36,7 @@ Tools: Excel · Power Query · Power Pivot · SSRS · Data Modelling · Data Ana
 
 > **[View Project](https://github.com/izzy-dev-ux/powerpivot_report)**
 
-> Skills
+# Skills
 
 Data Analysis: Data validation · Data reconciliation · Variance analysis · Data quality · Root-cause analysis
 
