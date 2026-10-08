@@ -3,7 +3,7 @@
 This portfolio showcases practical projects using Excel, Power Query and Power Pivot, with SQL and Power BI projects being added as my skills develop.
 
 # Projects
-> **Payroll Reconciliation & Reporting Automation**
+**Payroll Reconciliation & Reporting Automation**
 
 Designed a Power Query workflow to automate manual payroll reconciliation and reporting processes.
 
@@ -18,7 +18,7 @@ Tools: Excel · Power Query · Data Reconciliation · Process Automation
 
 > **[View Project](https://github.com/izzy-dev-ux/datacleaning-automation)**
 
-> **Pension Payroll Reconciliation & Reporting Model**
+**Pension Payroll Reconciliation & Reporting Model**
 
 Automated a manual pension payroll reconciliation process using Excel Power Query and Power Pivot.
 
